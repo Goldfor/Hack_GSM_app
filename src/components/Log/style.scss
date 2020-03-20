@@ -1,0 +1,28 @@
+.log-form{
+    right: 0px;
+    margin: 50px 20px 10px 10px;
+    font-size: 25px;
+    width: 100%;
+    text-align: -webkit-center;
+    .data{
+        border: 2px solid #1890ff;
+        border-radius: 3px;
+        background-color: hsl(0, 0%, 70%);
+        width: 30%;
+        min-width: 0px;
+        text-align: center;
+        height: 10pc;
+    }
+
+    div{
+        margin: 0px 0px 5px 0px;
+    }
+
+    input{
+        margin: 0px 0px 5px 0px;
+        height: 25px;
+        font-size: 25px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        border-radius: 5px;
+    }
+}

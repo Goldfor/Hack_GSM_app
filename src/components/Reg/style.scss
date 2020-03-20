@@ -1,0 +1,49 @@
+.reg-form{
+    right: 0px;
+    margin: 50px 20px 10px 10px;
+    font-size: 25px;
+    width: 100%;
+    text-align: -webkit-center;
+    .data{
+        border: 2px solid #1890ff;
+        border-radius: 3px;
+        background-color: hsl(0, 0%, 70%);
+        width: 30%;
+        min-width: 0px;
+        text-align: center;
+        height: 20pc;
+        
+        div{
+            margin: 5px 0px 0px 0px;
+        }
+        button{
+            margin: 15px 0px 5px 0px;
+            height: 30px;
+            width: 300px;
+            font-size: 20px;
+        }
+
+        input{
+            margin: 0px 0px 5px 0px;
+            height: 30px;
+            font-size: 25px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            border-radius: 5px;
+        }
+}
+}
+
+.back-button{
+    top: 20px;
+    left: 20px;
+    position: absolute;
+    background-color: #1890ff;
+    border-radius: 20px;
+    width: 40px;
+    height: 40px;
+    font-size: 28px;
+    text-align: center;
+    a{
+        color: white;
+    }
+}
